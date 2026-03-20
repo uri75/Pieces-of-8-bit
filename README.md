@@ -45,7 +45,7 @@ Usage instructions are available inside the file.
 This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free to use including for commercial work, but selling it is prohibited. You're welcome to share it, but please direct people to download it from the original source rather than redistributing the files directly. Made something with it? Tag me - I'd love to see it!
 
 ## Links
-[Download / leave a review on Gumroad](https://uriinbar.gumroad.com/l/djgraf)  
-[Download / leave a review on itch.io](https://uri-inbar.itch.io/pieces-of-8-bit))  
 [Videos & designs on Instagram](https://www.instagram.com/uri.inbar/)  
+[Gumroad page](https://uriinbar.gumroad.com/l/djgraf)  
+[itch.io page](https://uri-inbar.itch.io/pieces-of-8-bit)  
 [Redbubble store](https://www.redbubble.com/people/uri-inbar/shop) 
