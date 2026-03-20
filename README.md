@@ -31,7 +31,7 @@ Built on a series of Geometry Nodes modifiers, it works like a mini Photoshop fo
 ![Amstrad CPC](creation of man - amstrad hi-res.png)
 
 ## Getting Started
-- Download the .rar file and extract the .blend file
+- Download the .zip file and extract the .blend file
 - Open it in Blender 5 or later
 
 That's it!
