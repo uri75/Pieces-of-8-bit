@@ -39,7 +39,7 @@ Usage instructions are available inside the file.
 ## Credits
 - *Style64* - [C64 TrueType](http://www.style64.org/c64-truetype) font
 - *Patrick H. Lauke* - [MSX International+](https://www.fontstruct.com/fontstructions/show/2310019) font
-- *Tóth Krisztián* - C64 palettes borrowed from Krissz's excellent [PETSCII editor](https://www.petscii.krissz.hu)
+- *Tóth Krisztián* - C64 palettes sampled from Krissz's excellent [PETSCII editor](https://www.petscii.krissz.hu)
 
 ## Links
 [Download on Gumroad](https://uriinbar.gumroad.com/l/djgraf)  
