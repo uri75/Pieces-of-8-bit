@@ -41,6 +41,10 @@ Usage instructions are available inside the file.
 - *Patrick H. Lauke* - [MSX International+](https://www.fontstruct.com/fontstructions/show/2310019) font
 - *Tóth Krisztián* - C64 palettes sampled from Krissz's excellent [PETSCII editor](https://www.petscii.krissz.hu)
 
+## License
+This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
+You are free to use and share it with attribution, but not for commercial purposes.
+
 ## Links
 [Download on Gumroad](https://uriinbar.gumroad.com/l/djgraf)  
 [Videos & designs on Instagram](https://www.instagram.com/uri.inbar/)  
