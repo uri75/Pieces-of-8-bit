@@ -28,6 +28,8 @@ Built on a series of Geometry Nodes modifiers, it works like a mini Photoshop fo
 
 [![Watch the demo](https://github.com/user-attachments/assets/33b883a8-beb9-4128-a217-5c423bdd1215)](https://vimeo.com/manage/videos/974787675?fl=pl&fe=ti)
 
+![Amstrad CPC](creation of man - amstrad hi-res.png)
+
 ## Getting Started
 - Download the .rar file and extract the .blend file
 - Open it in Blender 5 or later
