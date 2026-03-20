@@ -42,8 +42,7 @@ Usage instructions are available inside the file.
 - *Tóth Krisztián* - C64 palettes sampled from Krissz's excellent [PETSCII editor](https://www.petscii.krissz.hu)
 
 ## License
-This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
-You are free to use and share it with attribution, but not for commercial purposes.
+This work is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). Free to use including for commercial work, but selling it is prohibited. You're welcome to share it, but please direct people to download it from the original source rather than redistributing the files directly. Made something with it? Tag me - I'd love to see it!
 
 ## Links
 [Download on Gumroad](https://uriinbar.gumroad.com/l/djgraf)  
