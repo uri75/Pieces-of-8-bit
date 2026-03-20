@@ -1,2 +1,45 @@
 # Pieces-of-8-bit
 An 8-bit retro graphics compositor for Blender 5+
+
+![Image](https://github.com/user-attachments/assets/35740f4e-fdcf-4c6a-863e-e606ee8e0441)
+
+## Description
+Pieces of 8-bit is a retro graphics compositor for Blender. If you grew up with a ZX Spectrum, a Commodore 64, an Amstrad CPC, or an MSX, this tool lets you relive that magic — right inside Blender.
+
+Built on a series of Geometry Nodes modifiers, it works like a mini Photoshop for 8-bit hardware. A canvas modifier sets your screen resolution and border size, layer modifiers let you stack images, videos, text and color gradients, and a converter modifier handles the final conversion to authentic hardware palettes and color limitations. Contextual gizmos make transforms intuitive, just like you'd expect from any modern graphics tool.
+
+## Features
+- Three layer types: image/video, text and color gradient (linear and radial)
+- Layer transform: scale, rotate, translate (including character snapping)
+- Layer effects: stroke, drop shadow, custom dither patterns and blur
+- Blend modes
+- Image / object masks
+- Dissolve and byte-by-byte / character-by-character transitions
+- 5 included fonts, with support for any additional TTF or OTF font
+- Every parameter is animatable in Blender's timeline
+- Export to native machine formats or standard video formats
+- Import exported files into compatible drawing apps like Multipaint
+
+## Supported Machines and Export Formats
+- *Amstrad CPC* - modes 0 and 1 (.dsk)
+- *Commodore 64* - hi-res, multicolor and PETSCII (.art, .kla, .ocp, .prg)
+- *MSX1* (.sc2, .dsk)
+- *ZX Spectrum* (.scr, .tap)
+
+## Getting Started
+- Download the .rar file and extract the .blend file
+- Open it in Blender 5 or later
+
+That's it!
+
+Usage instructions are available inside the file.
+
+## Credits
+- *Style64* - [C64 TrueType](http://www.style64.org/c64-truetype) font
+- *Patrick H. Lauke* - [MSX International+](https://www.fontstruct.com/fontstructions/show/2310019) font
+- *Tóth Krisztián* - C64 palettes borrowed from Krissz's excellent [PETSCII editor](https://www.petscii.krissz.hu)
+
+## Links
+[Download on Gumroad](https://uriinbar.gumroad.com/l/djgraf)
+[Videos and designs on Instagram](https://www.instagram.com/uri.inbar/)
+[Redbubble store](https://www.redbubble.com/people/uri-inbar/shop)
