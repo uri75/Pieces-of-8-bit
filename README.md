@@ -20,6 +20,8 @@ Built on a series of Geometry Nodes modifiers, it works like a mini Photoshop fo
 - Export to native machine formats or standard video formats
 - Import exported files into compatible drawing apps like Multipaint
 
+[![Watch the demo](<img width="512" height="288" alt="Image" src="https://github.com/user-attachments/assets/33b883a8-beb9-4128-a217-5c423bdd1215" />)](https://vimeo.com/manage/videos/974787675?fl=pl&fe=ti)
+
 ## Supported Machines and Export Formats
 - *Amstrad CPC* - modes 0 and 1 (.dsk)
 - *Commodore 64* - hi-res, multicolor and PETSCII (.art, .kla, .ocp, .prg)
@@ -40,6 +42,6 @@ Usage instructions are available inside the file.
 - *Tóth Krisztián* - C64 palettes borrowed from Krissz's excellent [PETSCII editor](https://www.petscii.krissz.hu)
 
 ## Links
-[Download on Gumroad](https://uriinbar.gumroad.com/l/djgraf)
-[Videos and designs on Instagram](https://www.instagram.com/uri.inbar/)
-[Redbubble store](https://www.redbubble.com/people/uri-inbar/shop)
+[Download on Gumroad](https://uriinbar.gumroad.com/l/djgraf)  
+[Videos & designs on Instagram](https://www.instagram.com/uri.inbar/)  
+[Redbubble store](https://www.redbubble.com/people/uri-inbar/shop) 
