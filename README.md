@@ -36,7 +36,7 @@ Built on a series of Geometry Nodes modifiers, it works like a mini Photoshop fo
 <div>
   <img src="creation_of_man_-_c64_hi-res.png" width="48%" alt="C64 hi-res" />
   &nbsp;
-  <img src="creation_of_man_-_amstrad_hi-res.png" width="48%" alt="C64 lo-res" />
+  <img src="creation_of_man_-_c64_lo-res.png" width="48%" alt="C64 lo-res" />
 </div>
 <div>
   <img src="creation_of_man_-_c64_petscii.png" width="48%" alt="C64 PETSCII" />
