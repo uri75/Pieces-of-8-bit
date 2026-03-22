@@ -28,24 +28,13 @@ Built on a series of Geometry Nodes modifiers, it works like a mini Photoshop fo
 - *MSX1* (.sc2, .dsk)
 - *ZX Spectrum* (.scr, .tap)
 
-<div>
-  <img src="creation_of_man_-_amstrad_lo-res.png" width="48%" alt="Amstrad lo-res" />
-  &nbsp;
-  <img src="creation_of_man_-_amstrad_hi-res.png" width="48%" alt="Amstrad hi-res" />
-</div>
-<div>
-  <img src="creation_of_man_-_c64_hi-res.png" width="48%" alt="C64 hi-res" />
-  &nbsp;
-  <img src="creation_of_man_-_c64_lo-res.png" width="48%" alt="C64 lo-res" />
-</div>
-<div>
-  <img src="creation_of_man_-_c64_petscii.png" width="48%" alt="C64 PETSCII" />
-  &nbsp;
-  <img src="creation_of_man_-_msx_hi-res.png" width="48%" alt="MSX hi-res" />
-</div>
-<div>
-  <img src="creation_of_man_-_spectrum.png" width="48%" alt="ZX Spectrum" />
-</div>
+<img src="creation_of_man_-_amstrad_lo-res.png" alt="Amstrad lo-res" />
+<img src="creation_of_man_-_amstrad_hi-res.png" alt="Amstrad hi-res" />
+<img src="creation_of_man_-_c64_hi-res.png" alt="C64 hi-res" />
+<img src="creation_of_man_-_c64_lo-res.png" alt="C64 lo-res" />
+<img src="creation_of_man_-_c64_petscii.png" alt="C64 PETSCII" />
+<img src="creation_of_man_-_msx_hi-res.png" alt="MSX hi-res" />
+<img src="creation_of_man_-_spectrum.png" alt="ZX Spectrum" />
 
 ## Getting Started
 - Download the .zip file and extract the .blend file
