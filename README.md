@@ -20,13 +20,32 @@ Built on a series of Geometry Nodes modifiers, it works like a mini Photoshop fo
 - Export to native machine formats or standard video formats
 - Import exported files into compatible drawing apps like Multipaint
 
+[![ZX Spectrum export](https://github.com/user-attachments/assets/33b883a8-beb9-4128-a217-5c423bdd1215)](https://vimeo.com/974787675)
+
 ## Supported Machines and Export Formats
 - *Amstrad CPC* - modes 0 and 1 (.dsk)
 - *Commodore 64* - hi-res, multicolor and PETSCII (.art, .kla, .ocp, .prg)
 - *MSX1* (.sc2, .dsk)
 - *ZX Spectrum* (.scr, .tap)
 
-[![Watch the demo](https://github.com/user-attachments/assets/33b883a8-beb9-4128-a217-5c423bdd1215)](https://vimeo.com/974787675)
+<div>
+  <img src="creation_of_man_-_amstrad_lo-res.png" width="48%" alt="Amstrad lo-res" />
+  &nbsp;
+  <img src="creation_of_man_-_amstrad_hi-res.png" width="48%" alt="Amstrad hi-res" />
+</div>
+<div>
+  <img src="creation_of_man_-_c64_hi-res.png" width="48%" alt="C64 hi-res" />
+  &nbsp;
+  <img src="creation_of_man_-_amstrad_hi-res.png" width="48%" alt="C64 lo-res" />
+</div>
+<div>
+  <img src="creation_of_man_-_c64_petscii.png" width="48%" alt="C64 PETSCII" />
+  &nbsp;
+  <img src="creation_of_man_-_msx_hi-res.png" width="48%" alt="MSX hi-res" />
+</div>
+<div>
+  <img src="creation_of_man_-_spectrum.png" width="48%" alt="ZX Spectrum" />
+</div>
 
 ## Getting Started
 - Download the .zip file and extract the .blend file
