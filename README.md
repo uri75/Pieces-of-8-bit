@@ -9,7 +9,7 @@ Built on a series of Geometry Nodes modifiers, Pieces of 8-bit works like a mini
 
 ## Features
 - ***Three layer types*** - image/video, text, color gradient (linear and radial)
-- ***Layer transform*** - scale, rotate, translate (including character snapping)
+- ***Layer transform*** - scale, rotate, offset (including character snapping)
 - ***Layer effects*** - stroke, drop shadow, custom scalable dither patterns, blur
 - ***Layer transitions*** - dissolve and byte-by-byte / character-by-character transitions
 - ***Blend modes***
