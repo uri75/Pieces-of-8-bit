@@ -3,7 +3,6 @@ An 8-bit retro graphics compositor for Blender 5+
 
 ![Image](https://github.com/user-attachments/assets/35740f4e-fdcf-4c6a-863e-e606ee8e0441)
 
-## Description
 **Pieces of 8-bit** is a retro graphics compositor for Blender. If you grew up with a ZX Spectrum, a Commodore 64, an Amstrad CPC, or an MSX, this tool lets you relive that magic - right inside Blender.
 
 Built on a series of Geometry Nodes modifiers, Pieces of 8-bit works like a mini Photoshop for 8-bit hardware. A canvas modifier sets your screen resolution and border size, layer modifiers let you stack images, videos, text and color gradients, and a converter modifier handles the final conversion to authentic hardware palettes and color restrictions. Contextual gizmos make transforms intuitive, just like you'd expect from any modern graphics tool.
