@@ -17,7 +17,7 @@ Built on a series of Geometry Nodes modifiers, Pieces of 8-bit works like a mini
 - ***5 included fonts*** - with support for any additional TTF or OTF font
 - ***Transparent canvas*** - for retro designs without the constraints of a rectangle background & border
 - ***Natively animatable parameters*** - create animations using Blender's built-in tools, and render them to standard video formats
-- ***Export*** - save images in native file formats of each supported machine. Load your creations in emulators, on real hardware, or import them into compatible drawing apps, like Multipaint, for further editing:
+- ***Export*** - save images in native file formats of each supported machine. Load your creations in emulators, on real hardware, or import them into compatible drawing apps, like [Multipaint](http://multipaint.kameli.net), for further editing:
 
 [![ZX Spectrum export](https://github.com/user-attachments/assets/33b883a8-beb9-4128-a217-5c423bdd1215)](https://vimeo.com/974787675)
 
