@@ -9,13 +9,13 @@ Built on a series of Geometry Nodes modifiers, Pieces of 8-bit works like a mini
 
 ## Features
 - ***Three layer types*** - image/video, text, color gradient (linear and radial)
-- ***Layer transform*** - scale, rotate, offset (including character snapping)
-- ***Layer effects*** - stroke, drop shadow, custom scalable dither patterns, blur
-- ***Layer transitions*** - dissolve and byte-by-byte / character-by-character transitions
-- ***Blend modes***
+- ***Transform*** - scale, rotate, offset (including character snapping)
+- ***Effects*** - stroke, drop shadow, custom scalable dither patterns, blur
+- ***Transitions*** - dissolve and byte-by-byte / character-by-character transitions
+- ***Color*** - blend mode, alpha, brightness, contrast, hue, saturation, tint
 - ***Masks*** - use RGBA channels of images and videos, or scene objects, as layer masks. Soften mask edges and preview them with a single click
 - ***5 included fonts*** - with support for any additional TTF or OTF font
-- ***Transparent mode*** - for retro designs without the constraints of a rectangle background & border
+- ***Transparent canvas*** - for retro designs without the constraints of a rectangle background & border
 - ***Natively animatable parameters*** - create animations using Blender's built-in tools, and render them to standard video formats
 - ***Export*** - save images in native file formats of each supported machine. Load your creations in emulators, on real hardware, or import them into compatible drawing apps, like Multipaint, for further editing:
 
