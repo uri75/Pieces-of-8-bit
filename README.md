@@ -10,7 +10,7 @@ Built on a series of Geometry Nodes modifiers, Pieces of 8-bit works like a mini
 ## Features
 - ***Three layer types*** - image/video, text, color gradient (linear and radial)
 - ***Transform*** - scale, rotate, offset (including character snapping)
-- ***Color*** - blend mode, alpha, brightness, contrast, hue, saturation, tint
+- ***Color adjustment*** - blend mode, alpha, brightness, contrast, hue, saturation, tint
 - ***Effects*** - stroke, drop shadow, custom scalable dither patterns, blur
 - ***Transitions*** - dissolve and byte-by-byte / character-by-character transitions
 - ***Masks*** - use RGBA channels of images and videos, or scene objects, as layer masks. Soften mask edges and preview them with a single click
