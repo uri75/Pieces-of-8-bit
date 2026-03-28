@@ -14,7 +14,7 @@ Built on a series of Geometry Nodes modifiers, Pieces of 8-bit works like a mini
 - ***Effects*** - stroke, drop shadow, custom scalable dither patterns, blur
 - ***Transitions*** - dissolve and byte-by-byte / character-by-character transitions
 - ***Masks*** - use RGBA channels of images and videos, or scene objects, as layer masks. Soften mask edges and preview them with a single click
-- ***5 included fonts*** - with support for any additional TTF or OTF font
+- ***5 included fonts*** - with support for any additional TTF, OTF or PFB font
 - ***Transparent canvas*** - for retro designs without the constraints of a rectangle background & border
 - ***Natively animatable parameters*** - create animations using Blender's built-in tools, and render them to standard video formats
 - ***Export*** - save images in native file formats of each supported machine. Load your creations in emulators, on real hardware, or import them into compatible drawing apps, like [Multipaint](http://multipaint.kameli.net), for further editing:
